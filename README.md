@@ -2,6 +2,8 @@
 
 A web-based application for storage management, built with modern technologies like **React**, **TypeScript**, **Appwrite**, and **Tailwind CSS**. This application provides an easy-to-use interface for managing files, performing CRUD operations, and using integrated features like authentication, file uploads, and data storage.
 
+![image](https://github.com/user-attachments/assets/a19ddced-0fe9-47e1-850f-29700ad7f4bc)
+
 
 ## Table of Contents
 
