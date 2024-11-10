@@ -2,6 +2,23 @@
 
 A web-based application for storage management, built with modern technologies like **React**, **TypeScript**, **Appwrite**, and **Tailwind CSS**. This application provides an easy-to-use interface for managing files, performing CRUD operations, and using integrated features like authentication, file uploads, and data storage.
 
+
+## Table of Contents
+
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Installation](#installation)
+  - [Prerequisites](#prerequisites)
+  - [Clone the Repository](#clone-the-repository)
+  - [Install Dependencies](#install-dependencies)
+  - [Setup Environment Variables](#setup-environment-variables)
+- [Deployment](#deployment)
+  - [Deploy to Vercel](#deploy-to-vercel)
+  - [Configure Appwrite in Production](#configure-appwrite-in-production)
+- [License](#license)
+- [Acknowledgements](#acknowledgements)
+- [Contact](#contact)
+
 ## Features
 
 - **Authentication**: Secure sign-up, login, and user management using Appwrite's authentication service.
